@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectName": "OdeToFood.Core",
+        "projectPath": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\sachi\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectName": "OdeToFood.Data",
+        "projectPath": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "packagesPath": "C:\\Users\\sachi\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "D:\\Pluralsight Courses\\ASP.NET Core Fundamentals by Scott Allen\\CODE\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.deps.json
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.dll
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.pdb
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csprojAssemblyReference.cache
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfo.cs
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.dll
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.pdb
