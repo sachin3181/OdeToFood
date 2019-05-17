@@ -10,3 +10,5 @@ D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\O
 D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.2\OdeToFood.Data.csproj.CopyComplete
 D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.2\OdeToFood.Data.dll
 D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.2\OdeToFood.Data.pdb
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.2\OdeToFood.Data.runtimeconfig.json
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.2\OdeToFood.Data.runtimeconfig.dev.json
