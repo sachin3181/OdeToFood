@@ -26,7 +26,8 @@ namespace OdeToFood
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
+            //services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
+            services.AddScoped<IRestaurantData, SqlRestaurantData>();
             services.AddDbContextPool<OdeToFoodDbContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("OdeToFoodDb"));
@@ -55,12 +56,22 @@ namespace OdeToFood
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseNodeModules(env);
             app.UseCookiePolicy();
 
             app.UseMvc();
+            app.Use(SayHelloMiddleware);
+        }
+
+        private RequestDelegate SayHelloMiddleware(RequestDelegate arg)
+        {
+            return async ctx =>
+            {
+                await ctx.Response.WriteAsync("Hello World");
+            };
         }
     }
 }

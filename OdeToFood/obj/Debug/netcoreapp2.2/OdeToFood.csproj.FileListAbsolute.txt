@@ -36,3 +36,7 @@ D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\O
 D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\Detail.g.cshtml.cs
 D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\NotFound.g.cshtml.cs
 D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\Edit.g.cshtml.cs
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\Delete.g.cshtml.cs
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\_Summary.g.cshtml.cs
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\Components\RestaurantCount\Default.g.cshtml.cs
+D:\Pluralsight Courses\ASP.NET Core Fundamentals by Scott Allen\CODE\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\ClientRestaurants.g.cshtml.cs

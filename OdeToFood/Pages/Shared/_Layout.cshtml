@@ -14,8 +14,6 @@
               asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute"
               crossorigin="anonymous"
               integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" />
-        @*<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/solid.css" integrity="sha384-ioUrHig76ITq4aEJ67dHzTvqjsAP/7IzgwE7lgJcg2r7BRNGYSK0LwSmROzYtgzs" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/fontawesome.css" integrity="sha384-sri+NftO+0hcisDKgr287Y/1LVnInHJ1l+XC7+FOabmTTIK0HnE2ID+xxvJ21c5J" crossorigin="anonymous">*@
     </environment>
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
@@ -52,8 +50,10 @@
     </div>
 
     <footer class="border-top footer text-muted">
+        <vc:restaurant-count></vc:restaurant-count>
         <div class="container">
             &copy; 2019 - OdeToFood - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            <img src="~/OdeToFood.png" />
         </div>
     </footer>
 

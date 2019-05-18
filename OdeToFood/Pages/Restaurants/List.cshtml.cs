@@ -12,6 +12,8 @@ namespace OdeToFood.Pages.Restaurants
 {
     public class ListModel : PageModel
     {
+        [TempData]
+        public string DeleteMessage { get; set; }
         private readonly IRestaurantData _restaurantData;
         public IEnumerable<Restaurant> Restaurants { get; set; }
         public string Message { get; set; }
